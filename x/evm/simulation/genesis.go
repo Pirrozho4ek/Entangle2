@@ -7,7 +7,7 @@ import (
 
 	"github.com/cosmos/cosmos-sdk/types/module"
 
-	"github.com/evmos/ethermint/x/evm/types"
+	"github.com/Pirrozho4ek/Entangle2/x/evm/types"
 )
 
 const (

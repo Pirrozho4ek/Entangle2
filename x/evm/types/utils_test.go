@@ -9,12 +9,12 @@ import (
 	codectypes "github.com/cosmos/cosmos-sdk/codec/types"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	authtx "github.com/cosmos/cosmos-sdk/x/auth/tx"
-	"github.com/evmos/ethermint/app"
-	"github.com/evmos/ethermint/encoding"
-	evmtypes "github.com/evmos/ethermint/x/evm/types"
+	"github.com/Pirrozho4ek/Entangle2/app"
+	"github.com/Pirrozho4ek/Entangle2/encoding"
+	evmtypes "github.com/Pirrozho4ek/Entangle2/x/evm/types"
 	proto "github.com/gogo/protobuf/proto"
 
-	"github.com/evmos/ethermint/tests"
+	"github.com/Pirrozho4ek/Entangle2/tests"
 
 	"github.com/stretchr/testify/require"
 

@@ -10,9 +10,9 @@ import (
 	"github.com/cosmos/cosmos-sdk/store/prefix"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/ethereum/go-ethereum/common"
-	ethermint "github.com/evmos/ethermint/types"
-	"github.com/evmos/ethermint/x/evm/statedb"
-	"github.com/evmos/ethermint/x/evm/types"
+	ethermint "github.com/Pirrozho4ek/Entangle2/types"
+	"github.com/Pirrozho4ek/Entangle2/x/evm/statedb"
+	"github.com/Pirrozho4ek/Entangle2/x/evm/types"
 )
 
 var _ statedb.Keeper = &Keeper{}

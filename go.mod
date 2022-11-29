@@ -1,4 +1,4 @@
-module github.com/evmos/ethermint
+module github.com/Pirrozho4ek/Emtangle2
 
 go 1.19
 

@@ -13,11 +13,11 @@ import (
 	"github.com/ethereum/go-ethereum/common/hexutil"
 	ethtypes "github.com/ethereum/go-ethereum/core/types"
 
-	"github.com/evmos/ethermint/rpc/backend"
+	"github.com/Pirrozho4ek/Entangle2/rpc/backend"
 
-	rpctypes "github.com/evmos/ethermint/rpc/types"
-	ethermint "github.com/evmos/ethermint/types"
-	evmtypes "github.com/evmos/ethermint/x/evm/types"
+	rpctypes "github.com/Pirrozho4ek/Entangle2/rpc/types"
+	ethermint "github.com/Pirrozho4ek/Entangle2/types"
+	evmtypes "github.com/Pirrozho4ek/Entangle2/x/evm/types"
 )
 
 // The Ethereum API allows applications to connect to an Evmos node that is

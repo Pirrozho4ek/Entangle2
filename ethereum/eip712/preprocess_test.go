@@ -13,12 +13,12 @@ import (
 	"github.com/cosmos/cosmos-sdk/types/tx/signing"
 	"github.com/cosmos/cosmos-sdk/x/auth/ante"
 	banktypes "github.com/cosmos/cosmos-sdk/x/bank/types"
-	"github.com/evmos/ethermint/app"
-	"github.com/evmos/ethermint/encoding"
-	"github.com/evmos/ethermint/ethereum/eip712"
-	"github.com/evmos/ethermint/tests"
-	"github.com/evmos/ethermint/types"
-	evmtypes "github.com/evmos/ethermint/x/evm/types"
+	"github.com/Pirrozho4ek/Entangle2/app"
+	"github.com/Pirrozho4ek/Entangle2/encoding"
+	"github.com/Pirrozho4ek/Entangle2/ethereum/eip712"
+	"github.com/Pirrozho4ek/Entangle2/tests"
+	"github.com/Pirrozho4ek/Entangle2/types"
+	evmtypes "github.com/Pirrozho4ek/Entangle2/x/evm/types"
 	"github.com/stretchr/testify/require"
 )
 

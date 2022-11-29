@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"github.com/ethereum/go-ethereum/common"
 	ethtypes "github.com/ethereum/go-ethereum/core/types"
-	"github.com/evmos/ethermint/rpc/backend/mocks"
-	ethrpc "github.com/evmos/ethermint/rpc/types"
-	evmtypes "github.com/evmos/ethermint/x/evm/types"
+	"github.com/Pirrozho4ek/Entangle2/rpc/backend/mocks"
+	ethrpc "github.com/Pirrozho4ek/Entangle2/rpc/types"
+	evmtypes "github.com/Pirrozho4ek/Entangle2/x/evm/types"
 	tmtypes "github.com/tendermint/tendermint/types"
 )
 

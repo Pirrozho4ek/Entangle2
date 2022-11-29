@@ -10,13 +10,13 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	paramtypes "github.com/cosmos/cosmos-sdk/x/params/types"
 
-	"github.com/evmos/ethermint/encoding"
+	"github.com/Pirrozho4ek/Entangle2/encoding"
 
-	"github.com/evmos/ethermint/app"
-	v010types "github.com/evmos/ethermint/x/feemarket/migrations/v010/types"
-	v011 "github.com/evmos/ethermint/x/feemarket/migrations/v011"
-	"github.com/evmos/ethermint/x/feemarket/types"
-	feemarkettypes "github.com/evmos/ethermint/x/feemarket/types"
+	"github.com/Pirrozho4ek/Entangle2/app"
+	v010types "github.com/Pirrozho4ek/Entangle2/x/feemarket/migrations/v010/types"
+	v011 "github.com/Pirrozho4ek/Entangle2/x/feemarket/migrations/v011"
+	"github.com/Pirrozho4ek/Entangle2/x/feemarket/types"
+	feemarkettypes "github.com/Pirrozho4ek/Entangle2/x/feemarket/types"
 )
 
 func init() {

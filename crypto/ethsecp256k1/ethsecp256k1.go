@@ -11,7 +11,7 @@ import (
 	cryptotypes "github.com/cosmos/cosmos-sdk/crypto/types"
 	errortypes "github.com/cosmos/cosmos-sdk/types/errors"
 	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/evmos/ethermint/ethereum/eip712"
+	"github.com/Pirrozho4ek/Entangle2/ethereum/eip712"
 	tmcrypto "github.com/tendermint/tendermint/crypto"
 )
 

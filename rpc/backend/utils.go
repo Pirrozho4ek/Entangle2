@@ -21,8 +21,8 @@ import (
 	"github.com/tendermint/tendermint/libs/log"
 	tmrpctypes "github.com/tendermint/tendermint/rpc/core/types"
 
-	"github.com/evmos/ethermint/rpc/types"
-	evmtypes "github.com/evmos/ethermint/x/evm/types"
+	"github.com/Pirrozho4ek/Entangle2/rpc/types"
+	evmtypes "github.com/Pirrozho4ek/Entangle2/x/evm/types"
 	"github.com/tendermint/tendermint/proto/tendermint/crypto"
 )
 

@@ -12,7 +12,7 @@ import (
 	txTypes "github.com/cosmos/cosmos-sdk/types/tx"
 
 	apitypes "github.com/ethereum/go-ethereum/signer/core/apitypes"
-	ethermint "github.com/evmos/ethermint/types"
+	ethermint "github.com/Pirrozho4ek/Entangle2/types"
 
 	"github.com/cosmos/cosmos-sdk/codec"
 )

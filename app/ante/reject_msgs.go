@@ -4,7 +4,7 @@ import (
 	errorsmod "cosmossdk.io/errors"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	errortypes "github.com/cosmos/cosmos-sdk/types/errors"
-	evmtypes "github.com/evmos/ethermint/x/evm/types"
+	evmtypes "github.com/Pirrozho4ek/Entangle2/x/evm/types"
 )
 
 // RejectMessagesDecorator prevents invalid msg types from being executed

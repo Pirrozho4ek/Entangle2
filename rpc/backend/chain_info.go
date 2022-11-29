@@ -10,10 +10,10 @@ import (
 	ethtypes "github.com/ethereum/go-ethereum/core/types"
 	"github.com/ethereum/go-ethereum/params"
 	"github.com/ethereum/go-ethereum/rpc"
-	rpctypes "github.com/evmos/ethermint/rpc/types"
-	ethermint "github.com/evmos/ethermint/types"
-	evmtypes "github.com/evmos/ethermint/x/evm/types"
-	feemarkettypes "github.com/evmos/ethermint/x/feemarket/types"
+	rpctypes "github.com/Pirrozho4ek/Entangle2/rpc/types"
+	ethermint "github.com/Pirrozho4ek/Entangle2/types"
+	evmtypes "github.com/Pirrozho4ek/Entangle2/x/evm/types"
+	feemarkettypes "github.com/Pirrozho4ek/Entangle2/x/feemarket/types"
 	tmrpctypes "github.com/tendermint/tendermint/rpc/core/types"
 )
 

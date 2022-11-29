@@ -17,11 +17,11 @@ import (
 	ethcrypto "github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/crypto/secp256k1"
 	"github.com/ethereum/go-ethereum/signer/core/apitypes"
-	"github.com/evmos/ethermint/crypto/ethsecp256k1"
-	"github.com/evmos/ethermint/ethereum/eip712"
-	ethermint "github.com/evmos/ethermint/types"
+	"github.com/Pirrozho4ek/Entangle2/crypto/ethsecp256k1"
+	"github.com/Pirrozho4ek/Entangle2/ethereum/eip712"
+	ethermint "github.com/Pirrozho4ek/Entangle2/types"
 
-	evmtypes "github.com/evmos/ethermint/x/evm/types"
+	evmtypes "github.com/Pirrozho4ek/Entangle2/x/evm/types"
 )
 
 var ethermintCodec codec.ProtoCodecMarshaler

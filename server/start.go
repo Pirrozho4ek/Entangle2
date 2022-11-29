@@ -46,11 +46,11 @@ import (
 	"github.com/cosmos/cosmos-sdk/server/types"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	"github.com/evmos/ethermint/indexer"
-	ethdebug "github.com/evmos/ethermint/rpc/namespaces/ethereum/debug"
-	"github.com/evmos/ethermint/server/config"
-	srvflags "github.com/evmos/ethermint/server/flags"
-	ethermint "github.com/evmos/ethermint/types"
+	"github.com/Pirrozho4ek/Entangle2/indexer"
+	ethdebug "github.com/Pirrozho4ek/Entangle2/rpc/namespaces/ethereum/debug"
+	"github.com/Pirrozho4ek/Entangle2/server/config"
+	srvflags "github.com/Pirrozho4ek/Entangle2/server/flags"
+	ethermint "github.com/Pirrozho4ek/Entangle2/types"
 )
 
 // StartCmd runs the service passed in, either stand-alone or in-process with
